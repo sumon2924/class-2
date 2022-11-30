@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;0,600;0,700;0,800;1,400&family=Roboto:wght@100;300;500;700;900&display=swap');
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+}
+.banner{
+   background-color: #13b2c2;
+    padding: 50px 0;
+}
+.banner p{
+	color: #fffbfb;
+	font-size: 41px;
+	text-align: center;
+	font-weight: 500;
+	line-height: 1.4;
+}
+
+.container{
+	
+max-width: 1200px;
+	
+margin-left: auto;
+	
+margin-right: auto;
+}
+h1{
+	font-size: 100px;
+	text-align: center;
+	color: wheat;
+	font-weight: 600;
+}
+
+.aboutus{
+	padding: 100px 0;
+}
+.aboutus p{
+	font-size: 40px;
+	font-weight: 400;
+	margin-top: 12px;
+	text-align: center;
+}
+strong{
+	  color: #4ca7ff;
+    display: inline-block;
+}
+b{
+	  color: #2002f2;
+	  display: inline-block;
+}
+em{
+	 color: #00ff3c;
+	 display: inline-block;
+}
+i{
+	 color: #e10c0c;
+	 display: inline-block;
+}
+span{
+	    background-color: #4ca7ff;
+    color: black;
+    padding: 8px 15px;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+
+.service-section{}
+.service-box{}
+.service-box h2{
+    font-size: 35px;
+}
+.service-box p{
+    font-size: 30px;
+}
+
+.service_section{
+	padding: 100px 0;
+}
+.service-box{
+    flex-basis: 33.33%;
+    padding: 16px 33px;
+    text-align: center;
+}
+.service-box h2{
+    font-size: 28px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+.service-box p {
+    font-size: 29px;
+    font-weight: 400;
+    margin-top: 12px;
+}
+
+.Flex{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+}
+.service-box div{
+
+background: #e3e3e3a8;
+
+padding: 28px 14px;
+
+border: 7px dashed #0086ff;
+
+border-radius: 26px;
+}
+
+
+
+
+
+
